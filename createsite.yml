@@ -1,0 +1,2 @@
+# Requires Hugo Extended & Node.js
+npx hugoblox create site --template documentation
